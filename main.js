@@ -2,6 +2,9 @@ status1 = "";
 objectDetector = "";
 object_name = "";
 objects = [];
+synth = "";
+speak_data = "";
+utterThis = "";
 
 function preload()
 {
